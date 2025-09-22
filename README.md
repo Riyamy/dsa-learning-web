@@ -1,15 +1,5 @@
 # 📚 DSA Learning Web
 
-Welcome to the **DSA Learning Web**, a beginner-friendly platform to learn **Data Structures and Algorithms** with step-by-step tutorials, curated examples, and practice problems. Built by **Ishita and Riya**, this project is made for students who want to strengthen their DSA concepts in a structured and interactive way.
-
----
-
-## 🚀 Live Website
-
-🌐 [View the Site on GitHub Pages](https://ishitapathunda.github.io/DSA-Learning-Web/home.html)
-
----
-
 ## 📁 Project Structure
 
 DSA-Learning-Web/
@@ -70,16 +60,12 @@ DSA-Learning-Web/
 ## 🛠 How to Run Locally
 
 ```bash
-git clone https://github.com/ishitapathunda/DSA-Learning-Web.git
+git clone https://github.com/Riyamy/DSA-Learning-Web.git
 cd DSA-Learning-Web
 open home.html  # or open in Live Server (VS Code)
 ```
 
-🙋‍♀️ About Us
-We are Ishita and Riya, aspiring developers passionate about simplifying DSA for learners.
 
-📬 For questions or suggestions:
-📧 dsahelp@mail.com
 
 📃 License
 This project is open-source and free to use for learning purposes.
